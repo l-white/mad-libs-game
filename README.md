@@ -1,1 +1,1 @@
-# mad-libs-game
+# Mad Libs Game
